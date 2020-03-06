@@ -6,4 +6,4 @@ Notes on python
 
 <hr>
 
-[return to home](https://github.com/michelmake/wiki/README.md)
+[return to home](https://github.com/michelmake/wiki)
